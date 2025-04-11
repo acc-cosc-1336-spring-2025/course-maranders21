@@ -1,6 +1,6 @@
 import unittest
 '''
-the file in /tests/homework/b_in_proc_out/tests_in_proc_out
+the file in /tests/homework/ASSIGNMENT/TEST FILE
 has the test functions
 '''
 from tests.homework.g_lists_and_tuples import tests_lists_and_tuples
